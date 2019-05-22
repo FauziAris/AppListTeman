@@ -6,7 +6,10 @@ import com.aarisfauji.applistteman.view.MainView;
 import com.aarisfauji.applistteman.view.ProfilFragment;
 
 public class MainActivityPresenter implements MainPresenter {
-
+ //    tanggal pengerjaan     : 21 Mei 2019
+//    nim                    : 10116563
+//    nama                   : A Aris Fauji
+//    kelas                  : AKB-13 (IF-13)
     private  MainView mainView;
     public MainActivityPresenter() {
     }

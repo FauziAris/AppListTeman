@@ -1,6 +1,11 @@
 package com.aarisfauji.applistteman.model;
 
 public class Teman {
+
+    //    tanggal pengerjaan     : 21 Mei 2019
+//    nim                    : 10116563
+//    nama                   : A Aris Fauji
+//    kelas                  : AKB-13 (IF-13)
     private String nim;
     private String nama;
     private String kelas;

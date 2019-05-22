@@ -21,6 +21,10 @@ import com.aarisfauji.applistteman.presenter.MainActivityPresenter;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener , MainView{
 
+//    tanggal pengerjaan     : 21 Mei 2019
+//    nim                    : 10116563
+//    nama                   : A Aris Fauji
+//    kelas                  : AKB-13 (IF-13)
     private MainActivityPresenter presenter;
 
     @Override

@@ -15,7 +15,10 @@ import com.aarisfauji.applistteman.adapter.CustomPagerAdapter;
  * A simple {@link Fragment} subclass.
  */
 public class HomeFragment extends Fragment {
-
+//    tanggal pengerjaan     : 22 Mei 2019
+//    nim                    : 10116563
+//    nama                   : A Aris Fauji
+//    kelas                  : AKB-13 (IF-13)
     View myView;
     ViewPager viewPager;
 

@@ -22,7 +22,10 @@ import java.util.List;
  * A simple {@link Fragment} subclass.
  */
 public class DaftarTemanFragment extends Fragment implements DaftarTemanView{
-
+//    tanggal pengerjaan     : 21 Mei 2019
+//    nim                    : 10116563
+//    nama                   : A Aris Fauji
+//    kelas                  : AKB-13 (IF-13)
     View view;
     List<Teman> listTeman;
     MainTemanPresenter presenter;

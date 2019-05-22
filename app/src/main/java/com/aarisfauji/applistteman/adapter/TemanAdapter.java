@@ -14,6 +14,11 @@ import com.aarisfauji.applistteman.R;
 import java.util.List;
 
 public class TemanAdapter extends ArrayAdapter<Teman> {
+
+    //    tanggal pengerjaan     : 21 Mei 2019
+//    nim                    : 10116563
+//    nama                   : A Aris Fauji
+//    kelas                  : AKB-13 (IF-13)
     List<Teman> listTeman;
     Context context;
     int layout;
